@@ -1,0 +1,4 @@
+C:\Users\mbo\source\repos\Pizzeria\Services\obj\Debug\netcoreapp2.2\Services.csprojAssemblyReference.cache
+C:\Users\mbo\source\repos\Pizzeria\Services\obj\Debug\netcoreapp2.2\Services.csproj.CoreCompileInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfoInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfo.cs

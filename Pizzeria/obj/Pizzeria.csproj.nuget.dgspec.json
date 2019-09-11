@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\mbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.mca.mk:9443/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\mbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.mca.mk:9443/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "projectName": "Pizzeria",
+        "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "packagesPath": "C:\\Users\\mbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Pizzeria\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.mca.mk:9443/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Services\\Services.csproj"
+              },
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\Storage.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.7.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\mbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.mca.mk:9443/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\Storage.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\Storage.csproj",
+        "projectName": "Storage",
+        "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\Storage.csproj",
+        "packagesPath": "C:\\Users\\mbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.mca.mk:9443/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mbo\\source\\repos\\Pizzeria\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

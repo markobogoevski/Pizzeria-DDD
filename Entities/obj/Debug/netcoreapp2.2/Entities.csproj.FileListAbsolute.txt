@@ -1,0 +1,12 @@
+C:\Users\mbo\source\repos\Pizzeria\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+C:\Users\mbo\source\repos\Pizzeria\Entities\bin\Debug\netcoreapp2.2\Entities.runtimeconfig.json
+C:\Users\mbo\source\repos\Pizzeria\Entities\bin\Debug\netcoreapp2.2\Entities.runtimeconfig.dev.json
+C:\Users\mbo\source\repos\Pizzeria\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\mbo\source\repos\Pizzeria\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\mbo\source\repos\Pizzeria\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+C:\Users\mbo\source\repos\Pizzeria\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+C:\Users\mbo\source\repos\Pizzeria\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\mbo\source\repos\Pizzeria\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+C:\Users\mbo\source\repos\Pizzeria\Entities\bin\Debug\netcoreapp2.2\Contracts.dll

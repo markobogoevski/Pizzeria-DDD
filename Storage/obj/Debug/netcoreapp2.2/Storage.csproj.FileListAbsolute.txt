@@ -1,0 +1,8 @@
+C:\Users\mbo\source\repos\Pizzeria\Storage\bin\Debug\netcoreapp2.2\Storage.deps.json
+C:\Users\mbo\source\repos\Pizzeria\Storage\bin\Debug\netcoreapp2.2\Storage.runtimeconfig.json
+C:\Users\mbo\source\repos\Pizzeria\Storage\bin\Debug\netcoreapp2.2\Storage.runtimeconfig.dev.json
+C:\Users\mbo\source\repos\Pizzeria\Storage\bin\Debug\netcoreapp2.2\Storage.dll
+C:\Users\mbo\source\repos\Pizzeria\Storage\obj\Debug\netcoreapp2.2\Storage.csproj.CoreCompileInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Storage\obj\Debug\netcoreapp2.2\Storage.AssemblyInfoInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Storage\obj\Debug\netcoreapp2.2\Storage.AssemblyInfo.cs
+C:\Users\mbo\source\repos\Pizzeria\Storage\obj\Debug\netcoreapp2.2\Storage.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Database\bin\Debug\Pizzeria.Database.dacpac
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Database\obj\Debug\Model.xml
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Database\obj\Debug\refactor.xml
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Database\obj\Debug\postdeploy.sql
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Database\obj\Debug\predeploy.sql
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Database\obj\Debug\Pizzeria.Database.dll
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Database\obj\Debug\Pizzeria.Database.pdb

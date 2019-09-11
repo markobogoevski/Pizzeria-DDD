@@ -1,0 +1,13 @@
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.deps.json
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.runtimeconfig.json
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.runtimeconfig.dev.json
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.dll
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\bin\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.pdb
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\obj\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\obj\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.AssemblyInfoInputs.cache
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\obj\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.AssemblyInfo.cs
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\obj\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.dll
+C:\Users\mbo\source\repos\Pizzeria\Pizzeria.Entities.Tests\obj\Debug\netcoreapp2.2\Pizzeria.Entities.Tests.pdb
